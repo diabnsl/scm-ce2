@@ -15,3 +15,6 @@ HOW TO CONTRIBUTE IN YOUR LOCAL BRANCH AND COMMIT IT
 3. Then write the command to add,commit.
 4. Write "git add .", "git commit -m "changes", and push the changes
 
+Project license
+Your project is very helpful for all the users out there. it helps the user to be productive
+Only our company have license for this app. Our app is verified and we are the sole owner of it.
