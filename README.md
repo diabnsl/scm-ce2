@@ -15,3 +15,9 @@ HOW TO CONTRIBUTE IN YOUR LOCAL BRANCH AND COMMIT IT
 3. Then write the command to add,commit.
 4. Write "git add .", "git commit -m "changes", and push the changes
 
+HOW TO CONTRIBUTE IN YOUR LOCAL BRANCH AND COMMIT IT
+1. Firstly clone your repository in your local system.
+2. Then make some changes in it and check the git status.
+3. Then write the command to add,commit.
+4. Write "git add .", "git commit -m "changes", and push the changes
+
